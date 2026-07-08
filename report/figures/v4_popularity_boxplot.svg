@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<rect width="800" height="500" fill="#0B0B0F"/>
+<g font-family="sans-serif">
+<text x="400" y="25" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="bold">流行度等级箱线图</text>
+<line x1="60" y1="40" x2="740" y2="40" stroke="#e0e0e0" stroke-width="0.5"/>
+<line x1="60" y1="130" x2="740" y2="130" stroke="#e0e0e0" stroke-width="0.5"/>
+<line x1="60" y1="220" x2="740" y2="220" stroke="#e0e0e0" stroke-width="0.5"/>
+<line x1="60" y1="310" x2="740" y2="310" stroke="#e0e0e0" stroke-width="0.5"/>
+<line x1="60" y1="400" x2="740" y2="400" stroke="#e0e0e0" stroke-width="0.5"/>
+<line x1="60" y1="40" x2="60" y2="400" stroke="#333333" stroke-width="1"/>
+<text x="54" y="403" text-anchor="end" fill="#63636E" font-size="10">0.0</text>
+<text x="54" y="313" text-anchor="end" fill="#63636E" font-size="10">0.3</text>
+<text x="54" y="223" text-anchor="end" fill="#63636E" font-size="10">0.5</text>
+<text x="54" y="133" text-anchor="end" fill="#63636E" font-size="10">0.8</text>
+<text x="54" y="43" text-anchor="end" fill="#63636E" font-size="10">1.0</text>
+<line x1="60" y1="400" x2="740" y2="400" stroke="#333333" stroke-width="1"/>
+<text x="145" y="416" text-anchor="middle" fill="#A1A1AA" font-size="12">S</text>
+<line x1="111" y1="83.77600000000001" x2="111" y2="245.776" stroke="#1DB954" stroke-width="1.5"/>
+<rect x="99.66666666666667" y="128.596" width="22.666666666666668" height="72.36000000000001" fill="#1DB954" fill-opacity="0.4" stroke="#1DB954" stroke-width="1"/>
+<line x1="99.66666666666667" y1="164.776" x2="122.33333333333333" y2="164.776" stroke="#1DB954" stroke-width="2"/>
+<line x1="145" y1="64.30000000000001" x2="145" y2="258.70000000000005" stroke="#1ED760" stroke-width="1.5"/>
+<rect x="133.66666666666666" y="118.084" width="22.666666666666668" height="86.83200000000002" fill="#1ED760" fill-opacity="0.4" stroke="#1ED760" stroke-width="1"/>
+<line x1="133.66666666666666" y1="161.5" x2="156.33333333333334" y2="161.5" stroke="#1ED760" stroke-width="2"/>
+<line x1="179" y1="136.55200000000002" x2="179" y2="320.152" stroke="#E8A838" stroke-width="1.5"/>
+<rect x="167.66666666666666" y="187.348" width="22.666666666666668" height="82.00799999999998" fill="#E8A838" fill-opacity="0.4" stroke="#E8A838" stroke-width="1"/>
+<line x1="167.66666666666666" y1="228.352" x2="190.33333333333334" y2="228.352" stroke="#E8A838" stroke-width="2"/>
+<text x="315" y="416" text-anchor="middle" fill="#A1A1AA" font-size="12">A</text>
+<line x1="281" y1="98.13999999999999" x2="281" y2="260.14" stroke="#1DB954" stroke-width="1.5"/>
+<rect x="269.6666666666667" y="142.95999999999998" width="22.666666666666668" height="72.36000000000001" fill="#1DB954" fill-opacity="0.4" stroke="#1DB954" stroke-width="1"/>
+<line x1="269.6666666666667" y1="179.14" x2="292.3333333333333" y2="179.14" stroke="#1DB954" stroke-width="2"/>
+<line x1="315" y1="67.25200000000001" x2="315" y2="261.65200000000004" stroke="#1ED760" stroke-width="1.5"/>
+<rect x="303.6666666666667" y="121.036" width="22.666666666666668" height="86.83200000000002" fill="#1ED760" fill-opacity="0.4" stroke="#1ED760" stroke-width="1"/>
+<line x1="303.6666666666667" y1="164.452" x2="326.3333333333333" y2="164.452" stroke="#1ED760" stroke-width="2"/>
+<line x1="349" y1="135.976" x2="349" y2="319.576" stroke="#E8A838" stroke-width="1.5"/>
+<rect x="337.6666666666667" y="186.772" width="22.666666666666668" height="82.00799999999998" fill="#E8A838" fill-opacity="0.4" stroke="#E8A838" stroke-width="1"/>
+<line x1="337.6666666666667" y1="227.776" x2="360.3333333333333" y2="227.776" stroke="#E8A838" stroke-width="2"/>
+<text x="485" y="416" text-anchor="middle" fill="#A1A1AA" font-size="12">B</text>
+<line x1="451" y1="107.17599999999999" x2="451" y2="269.176" stroke="#1DB954" stroke-width="1.5"/>
+<rect x="439.6666666666667" y="151.99599999999998" width="22.666666666666668" height="72.36000000000001" fill="#1DB954" fill-opacity="0.4" stroke="#1DB954" stroke-width="1"/>
+<line x1="439.6666666666667" y1="188.176" x2="462.3333333333333" y2="188.176" stroke="#1DB954" stroke-width="2"/>
+<line x1="485" y1="151.816" x2="485" y2="346.216" stroke="#1ED760" stroke-width="1.5"/>
+<rect x="473.6666666666667" y="205.6" width="22.666666666666668" height="86.83200000000002" fill="#1ED760" fill-opacity="0.4" stroke="#1ED760" stroke-width="1"/>
+<line x1="473.6666666666667" y1="249.016" x2="496.3333333333333" y2="249.016" stroke="#1ED760" stroke-width="2"/>
+<line x1="519" y1="124.20400000000001" x2="519" y2="307.804" stroke="#E8A838" stroke-width="1.5"/>
+<rect x="507.6666666666667" y="175" width="22.666666666666668" height="82.00800000000004" fill="#E8A838" fill-opacity="0.4" stroke="#E8A838" stroke-width="1"/>
+<line x1="507.6666666666667" y1="216.004" x2="530.3333333333334" y2="216.004" stroke="#E8A838" stroke-width="2"/>
+<text x="655" y="416" text-anchor="middle" fill="#A1A1AA" font-size="12">C</text>
+<line x1="621" y1="144.112" x2="621" y2="306.11199999999997" stroke="#1DB954" stroke-width="1.5"/>
+<rect x="609.6666666666666" y="188.932" width="22.666666666666668" height="72.36000000000004" fill="#1DB954" fill-opacity="0.4" stroke="#1DB954" stroke-width="1"/>
+<line x1="609.6666666666666" y1="225.112" x2="632.3333333333334" y2="225.112" stroke="#1DB954" stroke-width="2"/>
+<line x1="655" y1="195.16000000000003" x2="655" y2="389.56" stroke="#1ED760" stroke-width="1.5"/>
+<rect x="643.6666666666666" y="248.94400000000002" width="22.666666666666668" height="86.832" fill="#1ED760" fill-opacity="0.4" stroke="#1ED760" stroke-width="1"/>
+<line x1="643.6666666666666" y1="292.36" x2="666.3333333333334" y2="292.36" stroke="#1ED760" stroke-width="2"/>
+<line x1="689" y1="153.11200000000002" x2="689" y2="336.712" stroke="#E8A838" stroke-width="1.5"/>
+<rect x="677.6666666666666" y="203.908" width="22.666666666666668" height="82.00800000000001" fill="#E8A838" fill-opacity="0.4" stroke="#E8A838" stroke-width="1"/>
+<line x1="677.6666666666666" y1="244.912" x2="700.3333333333334" y2="244.912" stroke="#E8A838" stroke-width="2"/>
+<rect x="560" y="45" width="12" height="12" fill="#1DB954"/>
+<text x="576" y="55" fill="#A1A1AA" font-size="10">舞蹈性</text>
+<rect x="625" y="45" width="12" height="12" fill="#1ED760"/>
+<text x="641" y="55" fill="#A1A1AA" font-size="10">能量</text>
+<rect x="690" y="45" width="12" height="12" fill="#E8A838"/>
+<text x="706" y="55" fill="#A1A1AA" font-size="10">情感积极性</text>
+</g>
+</svg>

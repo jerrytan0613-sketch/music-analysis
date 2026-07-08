@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<rect width="800" height="500" fill="#0B0B0F"/>
+<g font-family="sans-serif">
+<text x="400" y="25" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="bold">AI 场景-情绪热力图</text>
+<text x="180" y="52" text-anchor="middle" fill="#A1A1AA" font-size="10">欢快</text>
+<text x="282" y="52" text-anchor="middle" fill="#A1A1AA" font-size="10">激昂</text>
+<text x="384" y="52" text-anchor="middle" fill="#A1A1AA" font-size="10">放松</text>
+<text x="486" y="52" text-anchor="middle" fill="#A1A1AA" font-size="10">平静</text>
+<text x="588" y="52" text-anchor="middle" fill="#A1A1AA" font-size="10">忧伤</text>
+<text x="690" y="52" text-anchor="middle" fill="#A1A1AA" font-size="10">迷幻</text>
+<text x="122" y="89" text-anchor="end" fill="#A1A1AA" font-size="11">派对聚会</text>
+<rect x="130" y="60" width="100" height="50" fill="#1db954" rx="2"/>
+<text x="180" y="89" text-anchor="middle" fill="#FFFFFF" font-size="12">60%</text>
+<rect x="232" y="60" width="100" height="50" fill="#1ba84d" rx="2"/>
+<text x="282" y="89" text-anchor="middle" fill="#FFFFFF" font-size="12">30%</text>
+<rect x="334" y="60" width="100" height="50" fill="#103f24" rx="2"/>
+<text x="384" y="89" text-anchor="middle" fill="#FFFFFF" font-size="12">10%</text>
+<rect x="436" y="60" width="100" height="50" fill="#0b0b0f" rx="2"/>
+<text x="486" y="89" text-anchor="middle" fill="#FFFFFF" font-size="12">0%</text>
+<rect x="538" y="60" width="100" height="50" fill="#0b0b0f" rx="2"/>
+<text x="588" y="89" text-anchor="middle" fill="#FFFFFF" font-size="12">0%</text>
+<rect x="640" y="60" width="100" height="50" fill="#0b0b0f" rx="2"/>
+<text x="690" y="89" text-anchor="middle" fill="#FFFFFF" font-size="12">0%</text>
+<text x="122" y="141" text-anchor="end" fill="#A1A1AA" font-size="11">深夜独处</text>
+<rect x="130" y="112" width="100" height="50" fill="#0b0b0f" rx="2"/>
+<text x="180" y="141" text-anchor="middle" fill="#FFFFFF" font-size="12">0%</text>
+<rect x="232" y="112" width="100" height="50" fill="#0b0b0f" rx="2"/>
+<text x="282" y="141" text-anchor="middle" fill="#FFFFFF" font-size="12">0%</text>
+<rect x="334" y="112" width="100" height="50" fill="#0b0b0f" rx="2"/>
+<text x="384" y="141" text-anchor="middle" fill="#FFFFFF" font-size="12">0%</text>
+<rect x="436" y="112" width="100" height="50" fill="#1db954" rx="2"/>
+<text x="486" y="141" text-anchor="middle" fill="#FFFFFF" font-size="12">40%</text>
+<rect x="538" y="112" width="100" height="50" fill="#1db954" rx="2"/>
+<text x="588" y="141" text-anchor="middle" fill="#FFFFFF" font-size="12">35%</text>
+<rect x="640" y="112" width="100" height="50" fill="#198e43" rx="2"/>
+<text x="690" y="141" text-anchor="middle" fill="#FFFFFF" font-size="12">25%</text>
+<text x="122" y="193" text-anchor="end" fill="#A1A1AA" font-size="11">运动健身</text>
+<rect x="130" y="164" width="100" height="50" fill="#1db954" rx="2"/>
+<text x="180" y="193" text-anchor="middle" fill="#FFFFFF" font-size="12">40%</text>
+<rect x="232" y="164" width="100" height="50" fill="#1db954" rx="2"/>
+<text x="282" y="193" text-anchor="middle" fill="#FFFFFF" font-size="12">50%</text>
+<rect x="334" y="164" width="100" height="50" fill="#103f24" rx="2"/>
+<text x="384" y="193" text-anchor="middle" fill="#FFFFFF" font-size="12">10%</text>
+<rect x="436" y="164" width="100" height="50" fill="#0b0b0f" rx="2"/>
+<text x="486" y="193" text-anchor="middle" fill="#FFFFFF" font-size="12">0%</text>
+<rect x="538" y="164" width="100" height="50" fill="#0b0b0f" rx="2"/>
+<text x="588" y="193" text-anchor="middle" fill="#FFFFFF" font-size="12">0%</text>
+<rect x="640" y="164" width="100" height="50" fill="#0b0b0f" rx="2"/>
+<text x="690" y="193" text-anchor="middle" fill="#FFFFFF" font-size="12">0%</text>
+<text x="122" y="245" text-anchor="end" fill="#A1A1AA" font-size="11">驾车出行</text>
+<rect x="130" y="216" width="100" height="50" fill="#1ba84d" rx="2"/>
+<text x="180" y="245" text-anchor="middle" fill="#FFFFFF" font-size="12">30%</text>
+<rect x="232" y="216" width="100" height="50" fill="#1db954" rx="2"/>
+<text x="282" y="245" text-anchor="middle" fill="#FFFFFF" font-size="12">40%</text>
+<rect x="334" y="216" width="100" height="50" fill="#1ba84d" rx="2"/>
+<text x="384" y="245" text-anchor="middle" fill="#FFFFFF" font-size="12">30%</text>
+<rect x="436" y="216" width="100" height="50" fill="#0b0b0f" rx="2"/>
+<text x="486" y="245" text-anchor="middle" fill="#FFFFFF" font-size="12">0%</text>
+<rect x="538" y="216" width="100" height="50" fill="#0b0b0f" rx="2"/>
+<text x="588" y="245" text-anchor="middle" fill="#FFFFFF" font-size="12">0%</text>
+<rect x="640" y="216" width="100" height="50" fill="#0b0b0f" rx="2"/>
+<text x="690" y="245" text-anchor="middle" fill="#FFFFFF" font-size="12">0%</text>
+</g>
+</svg>

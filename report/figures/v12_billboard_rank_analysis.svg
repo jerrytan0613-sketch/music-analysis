@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<rect width="800" height="500" fill="#0B0B0F"/>
+<g font-family="sans-serif">
+<text x="400" y="25" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="bold">Billboard 排名分析</text>
+<line x1="80" y1="430" x2="680" y2="430" stroke="#e0e0e0" stroke-width="0.5"/>
+<text x="74" y="433" text-anchor="end" fill="#63636E" font-size="10">0.0</text>
+<line x1="80" y1="335" x2="680" y2="335" stroke="#e0e0e0" stroke-width="0.5"/>
+<text x="74" y="338" text-anchor="end" fill="#63636E" font-size="10">0.3</text>
+<line x1="80" y1="240" x2="680" y2="240" stroke="#e0e0e0" stroke-width="0.5"/>
+<text x="74" y="243" text-anchor="end" fill="#63636E" font-size="10">0.5</text>
+<line x1="80" y1="145" x2="680" y2="145" stroke="#e0e0e0" stroke-width="0.5"/>
+<text x="74" y="148" text-anchor="end" fill="#63636E" font-size="10">0.8</text>
+<line x1="80" y1="50" x2="680" y2="50" stroke="#e0e0e0" stroke-width="0.5"/>
+<text x="74" y="53" text-anchor="end" fill="#63636E" font-size="10">1.0</text>
+<line x1="80" y1="430" x2="680" y2="430" stroke="#333333" stroke-width="1"/>
+<line x1="80" y1="50" x2="80" y2="430" stroke="#333333" stroke-width="1"/>
+<rect x="116" y="430" width="60" height="0" fill="#1DB954"/>
+<rect x="184" y="430" width="60" height="0" fill="#63636E"/>
+<text x="180" y="448" text-anchor="middle" fill="#A1A1AA" font-size="12">舞蹈性</text>
+<rect x="316" y="430" width="60" height="0" fill="#1DB954"/>
+<rect x="384" y="430" width="60" height="0" fill="#63636E"/>
+<text x="380" y="448" text-anchor="middle" fill="#A1A1AA" font-size="12">能量</text>
+<rect x="516" y="430" width="60" height="0" fill="#1DB954"/>
+<rect x="584" y="430" width="60" height="0" fill="#63636E"/>
+<text x="580" y="448" text-anchor="middle" fill="#A1A1AA" font-size="12">情感积极性</text>
+<rect x="520" y="60" width="12" height="12" fill="#1DB954"/>
+<text x="538" y="70" fill="#A1A1AA" font-size="11">Top 10</text>
+<rect x="600" y="60" width="12" height="12" fill="#63636E"/>
+<text x="618" y="70" fill="#A1A1AA" font-size="11">Bottom 10</text>
+</g>
+</svg>

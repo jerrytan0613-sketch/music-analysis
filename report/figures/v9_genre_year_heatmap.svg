@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<rect width="800" height="500" fill="#0B0B0F"/>
+<g font-family="sans-serif">
+<text x="400" y="25" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="bold">流派年代热力图</text>
+<text x="165" y="42" text-anchor="middle" fill="#A1A1AA" font-size="11">1990s</text>
+<text x="297" y="42" text-anchor="middle" fill="#A1A1AA" font-size="11">2000s</text>
+<text x="429" y="42" text-anchor="middle" fill="#A1A1AA" font-size="11">2010s</text>
+<text x="561" y="42" text-anchor="middle" fill="#A1A1AA" font-size="11">2020s</text>
+<text x="92" y="71" text-anchor="end" fill="#A1A1AA" font-size="10">流行</text>
+<rect x="100" y="50" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="165" y="71" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="232" y="50" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="297" y="71" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="364" y="50" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="429" y="71" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="496" y="50" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="561" y="71" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<text x="92" y="107" text-anchor="end" fill="#A1A1AA" font-size="10">摇滚</text>
+<rect x="100" y="86" width="130" height="34" fill="#1db954" rx="1"/>
+<text x="165" y="107" text-anchor="middle" fill="#FFFFFF" font-size="11">70%</text>
+<rect x="232" y="86" width="130" height="34" fill="#1db954" rx="1"/>
+<text x="297" y="107" text-anchor="middle" fill="#FFFFFF" font-size="11">80%</text>
+<rect x="364" y="86" width="130" height="34" fill="#1db954" rx="1"/>
+<text x="429" y="107" text-anchor="middle" fill="#FFFFFF" font-size="11">50%</text>
+<rect x="496" y="86" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="561" y="107" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<text x="92" y="143" text-anchor="end" fill="#A1A1AA" font-size="10">嘻哈</text>
+<rect x="100" y="122" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="165" y="143" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="232" y="122" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="297" y="143" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="364" y="122" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="429" y="143" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="496" y="122" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="561" y="143" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<text x="92" y="179" text-anchor="end" fill="#A1A1AA" font-size="10">电子</text>
+<rect x="100" y="158" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="165" y="179" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="232" y="158" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="297" y="179" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="364" y="158" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="429" y="179" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="496" y="158" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="561" y="179" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<text x="92" y="215" text-anchor="end" fill="#A1A1AA" font-size="10">R&B</text>
+<rect x="100" y="194" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="165" y="215" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="232" y="194" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="297" y="215" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="364" y="194" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="429" y="215" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="496" y="194" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="561" y="215" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<text x="92" y="251" text-anchor="end" fill="#A1A1AA" font-size="10">拉丁</text>
+<rect x="100" y="230" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="165" y="251" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="232" y="230" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="297" y="251" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="364" y="230" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="429" y="251" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="496" y="230" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="561" y="251" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<text x="92" y="287" text-anchor="end" fill="#A1A1AA" font-size="10">爵士</text>
+<rect x="100" y="266" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="165" y="287" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="232" y="266" width="130" height="34" fill="#0e281a" rx="1"/>
+<text x="297" y="287" text-anchor="middle" fill="#FFFFFF" font-size="11">3%</text>
+<rect x="364" y="266" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="429" y="287" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="496" y="266" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="561" y="287" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<text x="92" y="323" text-anchor="end" fill="#A1A1AA" font-size="10">古典</text>
+<rect x="100" y="302" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="165" y="323" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="232" y="302" width="130" height="34" fill="#0e281a" rx="1"/>
+<text x="297" y="323" text-anchor="middle" fill="#FFFFFF" font-size="11">3%</text>
+<rect x="364" y="302" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="429" y="323" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="496" y="302" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="561" y="323" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<text x="92" y="359" text-anchor="end" fill="#A1A1AA" font-size="10">民谣</text>
+<rect x="100" y="338" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="165" y="359" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="232" y="338" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="297" y="359" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="364" y="338" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="429" y="359" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="496" y="338" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="561" y="359" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<text x="92" y="395" text-anchor="end" fill="#A1A1AA" font-size="10">金属</text>
+<rect x="100" y="374" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="165" y="395" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="232" y="374" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="297" y="395" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="364" y="374" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="429" y="395" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+<rect x="496" y="374" width="130" height="34" fill="#0b0b0f" rx="1"/>
+<text x="561" y="395" text-anchor="middle" fill="#FFFFFF" font-size="11">0%</text>
+</g>
+</svg>
